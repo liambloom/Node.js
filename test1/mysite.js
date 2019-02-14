@@ -24,4 +24,4 @@ http.createServer("/", (req, res) => {
 	})
 }).listen(port);
 
-console.log(`Magic 8 Ball is running in port ${port}`)
+console.log(`liambloom.github.io is running in port ${port}`)
